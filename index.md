@@ -419,7 +419,7 @@ You can use these for testing before/after fix.
 
 ---
 
-**Prepared by:** Tee (Product/Founder)  
+**Prepared by:** IONGANIC TEE/ASTUTE THOUGHT  
 **Date:** November 10, 2025  
 **Priority:** HIGH (blocking client delivery)  
 **Expected Resolution:** 2-4 weeks
